@@ -1,0 +1,16 @@
+
+.searchbox{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.mb-2{
+    width: 700px;
+}
+#btn{
+    text-align: center;
+}
+#odometer{
+    text-align: center;
+    font-size: 600px;
+}
